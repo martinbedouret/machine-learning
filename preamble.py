@@ -9,8 +9,8 @@ Created on Sat Apr 11 20:01:04 2020
 from IPython.display import set_matplotlib_formats, display
 import pandas as pd
 import numpy as np
-import matplotlib.pyplot as plt
 import mglearn
+import matplotlib.pyplot as plt
 from cycler import cycler
 
 set_matplotlib_formats('pdf', 'png')
